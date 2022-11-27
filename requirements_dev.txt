@@ -1,12 +1,12 @@
-ipywidgets
-notebook
-ensure #arg pass is correct or not
-py-youtube
+ipywidgets==7.5.1
+notebook==6.0.3
+ensure==1.0.2 #arg pass is correct or not
+py-youtube==1.1.7
 
 #dev requirements
-pytest
-tox
-black #formatting
-flake8 #lint tocjeck error
-mypy #type check
+pytest==5.3.5
+tox==3.27.1
+black==22.10.0 #formatting
+flake8==3.7.9 #lint tocjeck error
+mypy==0.991#type check
 -e .
