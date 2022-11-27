@@ -39,7 +39,7 @@ pip-delete-this-directory.txt
 
 #ignore log file
 *.log
-
+ipy.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
