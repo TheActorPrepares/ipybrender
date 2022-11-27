@@ -1,0 +1,11 @@
+ipywidgets
+notebook
+ensure #arg pass is correct or not
+py-youtube
+
+#dev requirements
+pytest
+tox
+black #formatting
+flake8 #lint tocjeck error
+mypy #type check
