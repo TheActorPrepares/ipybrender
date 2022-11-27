@@ -9,3 +9,4 @@ tox
 black #formatting
 flake8 #lint tocjeck error
 mypy #type check
+-e .
